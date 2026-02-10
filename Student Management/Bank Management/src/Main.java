@@ -29,9 +29,11 @@ public class Main {
                 System.out.println("0. Exit");
                 System.out.print("Enter choice: ");
                 choice = sc.nextInt();
+                BankManagement bm=;
 
                 switch (choice) {
                     case 1:
+
                         bm.showAll(con);
                         break;
                     case 2:

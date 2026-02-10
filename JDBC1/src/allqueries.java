@@ -2,7 +2,7 @@ import java.util.*;
 import java.sql.*;
 
 public class allqueries {
-    
+
             //int num=sc.nextInt();
 
             while (true)
